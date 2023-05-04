@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(236, 37, 193);
+}
+
+p:hover{
+    font-size: 25px;
+    color: rgb(208, 243, 11);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
